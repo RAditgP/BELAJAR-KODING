@@ -1,0 +1,6 @@
+cara install laravel
+hidupkan xampp/laragon/laravel herd,
+lalu tekan windows+r ketikan cmd
+setelah terbuka powershell ketikan kode berikut
+composer create-project laravel/laravel nama-proyek-anda
+lalu tunggu ,setelah selesai instal laravel buka ke visual studio code 

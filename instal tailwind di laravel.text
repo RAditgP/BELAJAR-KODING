@@ -1,0 +1,3 @@
+cara menambahkan tailwindcss di laravel
+di terminal ketikkan
+npm install tailwindcss dan npx tailwindcss init
